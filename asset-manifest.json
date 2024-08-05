@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fredy-AP/api.git/static/css/main.67e76332.css",
+    "main.js": "/Fredy-AP/api.git/static/js/main.3609217c.js",
+    "static/js/453.42bd1ccc.chunk.js": "/Fredy-AP/api.git/static/js/453.42bd1ccc.chunk.js",
+    "index.html": "/Fredy-AP/api.git/index.html",
+    "main.67e76332.css.map": "/Fredy-AP/api.git/static/css/main.67e76332.css.map",
+    "main.3609217c.js.map": "/Fredy-AP/api.git/static/js/main.3609217c.js.map",
+    "453.42bd1ccc.chunk.js.map": "/Fredy-AP/api.git/static/js/453.42bd1ccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e76332.css",
+    "static/js/main.3609217c.js"
+  ]
+}
